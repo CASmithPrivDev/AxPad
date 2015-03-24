@@ -1,0 +1,5 @@
+_main: CODE, 32704 0 8
+_JE_SquareWaveTestPin1: CODE, 32746 0 22
+__initialization: CODE, 32728 0 12
+_Delay10TCYx: CODE, 32712 0 16
+Total: 58
